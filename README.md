@@ -1,6 +1,6 @@
 # Desafio de Projeto Git/GitHub da DIO - Bootcamp Santander - F1rst
 
-Este repositório foi criado para o Desafio Git/Github da DIO e contém códigos C++ escritos durante o Bacharelado de Sistemas de Infomação da Universidade Federal de São Carlos, nas disciplinas de algoritomo e lógica de programação.
+Este repositório foi criado para o Desafio Git/Github da DIO e contém códigos C++ escritos durante o Bacharelado de Sistemas de Infomação da Universidade Federal de São Carlos, nas disciplinas de algoritmo e lógica de programação.
 
 ## codigos_estrututurados_cpp
 
